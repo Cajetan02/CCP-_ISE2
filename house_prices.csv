@@ -1,6 +1,11 @@
-House Type,Price
-Apartment,300000
-Villa,500000
-Townhouse,400000
-Condo,350000
-Studio,250000
+"House Type",Price
+Apartment,30000
+Villa,27000
+Townhouse,20000
+Condo,28000
+Studio,25000
+Apartment,27000
+Villa,24000
+Townhouse,24000
+Condo,32000
+Studio,29000
